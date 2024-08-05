@@ -37,11 +37,11 @@ const HowItWorks = () => {
         <div className="flex flex-col items-center">
           <h2 className="hiw-title">
             A17 Pro chip.
-            <br /> A monster win for gaming.
+            <br /> Sebuah Chip Monster Untuk Bermain Game.
           </h2>
 
           <p className="hiw-subtitle">
-            It's here. The biggest redesign in the history of Apple GPUs.
+          Ada di sini. Desain ulang terbesar dalam sejarah GPU Apple.
           </p>
         </div>
 
@@ -66,18 +66,18 @@ const HowItWorks = () => {
           <div className="hiw-text-container">
                 <div className="flex flex-1 justify-center flex-col">
                   <p className="hiw-text g_fadeIn">
-                    A17 Pro is an entirely new class of iPhone chip that delivers our {' '}
+                  A17 Pro adalah kelas chip iPhone baru yang menghadirkan {' '}
                     <span className="text-white">
-                      best graphic performance by far
+                    performa grafis terbaik kami sejauh ini.
                     </span>.
                   </p>
 
                   <p className="hiw-text g_fadeIn">
-                   Mobile {' '}
+                  Game mobile {' '}
                     <span className="text-white">
-                      games will look and feel so immersive
+                    akan terlihat dan terasa begitu imersif
                     </span>,
-                     with incredibly detailed environments and characters.
+                    dengan lingkungan dan karakter yang sangat detail.
                   </p>
                 </div>
               
@@ -85,7 +85,7 @@ const HowItWorks = () => {
               <div className="flex-1 flex justify-center flex-col g_fadeIn">
                 <p className="hiw-text">New</p>
                 <p className="hiw-bigtext">Pro-class GPU</p>
-                <p className="hiw-text">with 6 cores</p>
+                <p className="hiw-text">Dengan 6 cores</p>
               </div>
               </div>
             </div>

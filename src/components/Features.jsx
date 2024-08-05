@@ -35,13 +35,13 @@ const Features = () => {
     <section className="h-full common-padding bg-zinc relative overflow-hidden">
       <div className="screen-max-wdith">
         <div className="mb-12 w-full">
-          <h1 id="features_title" className="section-heading">Explore the full story.</h1>
+          <h1 id="features_title" className="section-heading">Jelajahi Cerita Lengkapnya.</h1>
         </div>
         
         <div className="flex flex-col justify-center items-center overflow-hidden">
           <div className="mt-32 mb-24 pl-24">
             <h2 className="text-5xl lg:text-7xl font-semibold">iPhone.</h2>
-            <h2 className="text-5xl lg:text-7xl font-semibold">Forged in titanium.</h2>
+            <h2 className="text-5xl lg:text-7xl font-semibold">Ditempa dengan titanium.</h2>
           </div>
 
           <div className="flex-center flex-col sm:px-10">
@@ -64,21 +64,21 @@ const Features = () => {
               <div className="feature-text-container">
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
-                    iPhone 15 Pro is {' '}
+                  iPhone 15 Pro adalah {' '}
                     <span className="text-white">
-                      the first iPhone to feature an aerospace-grade titanium design
+                    iPhone pertama yang menampilkan desain titanium kelas kedirgantaraan dengan
                     </span>,
-                    using the same alloy that spacecrafts use for missions to Mars.
+                    menggunakan paduan yang sama dengan yang digunakan pesawat ruang angkasa untuk misi ke Mars.
                   </p>
                 </div>
 
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
-                    Titanium has one of the best strength-to-weight ratios of any metal, making these our {' '}
+                  Titanium memiliki salah satu rasio kekuatan-terhadap-berat terbaik dari semua logam, {' '}
                     <span className="text-white">
-                      lightest Pro models ever.
+                    sehingga menjadikannya model Pro paling ringan yang pernah ada.
                     </span>
-                    You'll notice the difference the moment you pick one up.
+                    Anda akan melihat perbedaannya saat Anda mengambilnya.
                   </p>
                 </div>
 

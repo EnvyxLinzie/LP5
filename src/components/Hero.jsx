@@ -39,12 +39,21 @@ const Hero = () => {
       </div>
 
       <div
-        id="cta"
-        className="flex flex-col items-center opacity-0 translate-y-20"
-      >
-        <a href="#highlights" className="btn">Buy</a>
-        <p className="font-normal text-xl">From $199/month or $999</p>
-      </div>
+  id="cta"
+  className="flex flex-col items-center justify-center opacity-0 translate-y-20 transition-opacity transition-transform duration-700 ease-out"
+>
+  <a
+    href="#highlights"
+    className="btn bg-black-300 text-white-299 py-2 px-8 rounded-full shadow-xl border-2 border-transparent hover:border-gray-300 hover:bg-transparent hover:text-white-800 transition-all duration-300 transform hover:-translate-y-1 hover:scale-105"
+  >
+    Dapatkan Mulai Harga $199/Bulan atau $999 Langung.
+  </a>
+  <h1 className="mt-4 text-center text-lg font-semibold text-white-800">
+    Dapatkan perawatan/service iPhone 15 Pro Max terbaik di Purwokerto, Indonesia
+  </h1>
+</div>
+
+
     </section>
   )
 }
